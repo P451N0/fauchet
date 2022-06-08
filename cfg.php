@@ -1,6 +1,6 @@
 <?php
 
-$useragent = "Mozilla/5.0 (Linux; Android 10; Infinix X692) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36";
+$useragent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36";
 
 $url_claim_fp = "https://uptocoin.my.id/fp/faucet.php?r=TBi1yHU6n1jYQH98wJELxE2C5ughURvoGw&rc=DOGE&address=DE1CRbWktM5vZgDtMZUjkDTh17VLk4mGeV&currency=DOGE&key=29fb3a91e1375bc1e30463be926d4026";
 
